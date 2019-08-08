@@ -1,0 +1,49 @@
+.menu__column {
+  display: flex;
+  justify-content: space-between;
+  padding-right: 50px;
+  margin-top: 30px;
+}
+
+.menu__column .memu__town {
+  width: 70px;
+  height: 30px;
+  background-color: #dce1f7;
+  color: #2a47f9;
+  font-weight: bold;
+  font-size: 11px;
+  padding: 7px 15px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.menu__column .menu__historical {
+  width: 100px;
+  height: 30px;
+  background-color: #dce1f7;
+  color: #2a47f9;
+  font-weight: bold;
+  font-size: 11px;
+  padding: 7px 20px;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+
+.menu__column .forkids {
+  width: 81px;
+  height: 30px;
+  background-color: #dce1f7;
+  color: #2a47f9;
+  font-weight: bold;
+  font-size: 11px;
+  padding: 7px 15px;
+  justify-content: center;
+  align-items: center;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

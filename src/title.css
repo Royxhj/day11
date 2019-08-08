@@ -1,0 +1,22 @@
+.title {
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.title .title__text {
+  height: 30px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.title .title__icon {
+  margin-top: 5px;
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 30px;
+  color: red;
+  text-align: center;
+  padding-top: 5px;
+}

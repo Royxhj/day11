@@ -1,0 +1,13 @@
+.overview {
+  margin-top: 30px;
+}
+
+.overview .overview__title__text {
+  font-size: 12px;
+  font-weight: bold;
+  opacity: 0.4;
+}
+.overview .overview__title__detail {
+  opacity: 0.8;
+  font-weight: 500;
+}
